@@ -21,6 +21,11 @@ ul {
   text-align: left;
 }
 
+ol > li, 
+ul > li {
+  margin: 10px 0;
+}
+
 .links {
   padding: 0;
   text-align: center;

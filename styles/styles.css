@@ -2,6 +2,11 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+body {
+    background-color: #f5f5f5;
+    color: #212529;
+}
+
 li,
 p {
     font-size: 18px;
